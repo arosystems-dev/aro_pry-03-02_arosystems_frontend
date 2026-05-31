@@ -7,6 +7,11 @@
   color: #dcdcdc;
 }
 
+.titulo {
+  width: 50%;
+  text-align: start;
+}
+
 .nav-link:hover {
   font-weight: bold;
 }
